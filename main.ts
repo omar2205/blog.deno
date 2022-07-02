@@ -5,6 +5,6 @@ blog({
   title: 'Demo Blog',
   author: 'oskr.nl',
   links: [
-    { title: 'Email', url: 'hi@oskr.nl' }
+    { title: 'Email', url: 'mailto:hi@oskr.nl' }
   ]
 })
